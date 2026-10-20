@@ -1,3 +1,6 @@
+Version 1 – Original code without
+input validation
+
 # Electricity Bill Calculator
 ## Description
 This program calculates the cost of the monthly electricity bill.
