@@ -9,3 +9,9 @@ This program calculates the cost of the monthly electricity bill.
 - Process: Calculates and displays the price of this month's bill.
 - Output: Total cost.
 - Does not include input validation.
+
+## Version 2 - Revised code with input validation
+- Input: Accepts a valid name (no numbers or special characters) and two meter readings.
+- Process: Calculates and displays the price of this month's bill.
+- Output: Total cost.
+- Includes input validation for name and readings
